@@ -1,0 +1,4 @@
+curso de python y btc 
+https://www.youtube.com/watch?v=D44Nu2HiFEM&list=PLt1juD7lYhgHyk_pgpdNwOMDnNOF7RALd&index=2&ab_channel=PyPro-GuillermoIzquierdo
+
+https://api.bitso.com/v3/trades/?book=btc_mxn
